@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page!</br>
-I'm Blessing Isaiah, Cybersecurity Analyst from Nigeria, I’m more passionate about conducting security assessments and testing for threats and vulnerabilities in an organization before attackers can exploit them.</b>. </p>
+I'm Blessing Isaiah, Cybersecurity Analyst, I’m more passionate about conducting security assessments and testing for threats and vulnerabilities in an organization before attackers can exploit them.</b>. </p>
 
 <h3>Tools </h3>
 
