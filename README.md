@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page!</br>
-I'm Blessing Isaiah, Cybersecurity Analyst, I’m more passionate about conducting security assessments and testing for threats and vulnerabilities in an organization before attackers can exploit them.</b>. </p>
+Blessing Isaiah is a Cybersecurity Analyst specializing in security assessments and vulnerability testing. With a passion for discovering bugs before users or attackers ever encounter them</b>. </p>
 
 <h3>Tools </h3>
 
