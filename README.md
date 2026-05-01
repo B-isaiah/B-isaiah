@@ -17,8 +17,24 @@ I specialize in identifying security flaws across web applications, APIs, and sy
 - Privilege Escalation Research
 - Security Auditing and Risk Identification
 
+
+## 📂 Featured Projects
+
+- 🔐 [System Penetration & API Security Projects](https://github.com/B-isaiah/System-Penetration-projects-)
+  - API security testing (JWT, authentication flaws)
+  - Vulnerability assessments across web applications
+  - System penetration testing and reporting
+  - Privilege escalation research (Linux & Windows)
+
 ---
 
+## 🎯 What I Focus On
+- Identifying exploitable vulnerabilities in APIs and web applications  
+- Writing structured and professional security reports  
+- Understanding attacker behavior and exploitation techniques  
+- Improving application security posture through testing  
+
+---
 ## 🛠 Tools & Technologies
 
 ### Reconnaissance & OSINT
@@ -60,24 +76,6 @@ I specialize in identifying security flaws across web applications, APIs, and sy
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Parrot_OS-00FF7F?&style=for-the-badge&logoColor=black" />
 </div>
-
----
-
-## 📂 Featured Projects
-
-- 🔐 [System Penetration & API Security Projects](https://github.com/B-isaiah/System-Penetration-projects-)
-  - API security testing (JWT, authentication flaws)
-  - Vulnerability assessments across web applications
-  - System penetration testing and reporting
-  - Privilege escalation research (Linux & Windows)
-
----
-
-## 🎯 What I Focus On
-- Identifying exploitable vulnerabilities in APIs and web applications  
-- Writing structured and professional security reports  
-- Understanding attacker behavior and exploitation techniques  
-- Improving application security posture through testing  
 
 ---
 
