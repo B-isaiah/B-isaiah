@@ -17,6 +17,50 @@ I specialize in identifying security flaws across web applications, APIs, and sy
 - Privilege Escalation Research
 - Security Auditing and Risk Identification
 
+## 🧭 Security Methodology
+
+I follow a structured and repeatable testing process to ensure accurate vulnerability discovery, validation, and reporting.
+
+### 1. Information Gathering
+- Identify target scope and attack surface
+- Perform passive and active reconnaissance
+- Collect endpoints, subdomains, and exposed services
+- Map application architecture and API structure
+
+### 2. Enumeration
+- Analyze discovered services and technologies
+- Inspect API endpoints, parameters, and authentication flows
+- Identify hidden routes and undocumented features
+- Review HTTP responses and metadata for leakage
+
+### 3. Vulnerability Identification
+- Test for OWASP Top 10 vulnerabilities
+- Evaluate authentication and authorization controls
+- Analyze JWT implementation and session handling
+- Detect input validation and injection flaws
+
+### 4. Exploitation Validation
+- Safely confirm identified vulnerabilities
+- Test real-world impact without causing disruption
+- Validate privilege escalation paths where applicable
+- Reproduce findings consistently
+
+### 5. Post-Exploitation Analysis
+- Assess data exposure and privilege impact
+- Determine lateral movement possibilities
+- Evaluate system or API compromise depth
+
+### 6. Reporting & Documentation
+- Document findings with clear technical explanations
+- Include steps to reproduce and proof of concept evidence
+- Assign severity based on business and technical impact
+- Provide remediation recommendations
+
+---
+
+## 🎯 Objective
+To ensure every assessment is structured, repeatable, and focused on identifying real-world security risks with clear and actionable reporting.
+
 
 ## 📂 Featured Projects
 
