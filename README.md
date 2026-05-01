@@ -32,7 +32,9 @@ I specialize in identifying security flaws across web applications, APIs, and sy
 - Identifying exploitable vulnerabilities in APIs and web applications  
 - Writing structured and professional security reports  
 - Understanding attacker behavior and exploitation techniques  
-- Improving application security posture through testing  
+- Improving application security posture through testing
+- Code review
+- ApI security testing
 
 ---
 ## 🛠 Tools & Technologies
