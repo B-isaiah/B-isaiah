@@ -81,6 +81,9 @@ To ensure every assessment is structured, repeatable, and focused on identifying
 - ApI security testing
 
 ---
+## Certifications
+(https://drive.google.com/file/d/1fvQ8exSxGZERSDaOYqa0usL4DZEsBrwx/view?usp=sharing)
+---
 ## 🛠 Tools & Technologies
 
 ### Reconnaissance & OSINT
