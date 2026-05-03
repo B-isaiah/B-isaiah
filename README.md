@@ -1,10 +1,10 @@
-<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
+<h1 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Application Security & DevSecOps Portfolio</h1>
 
 <p>
 Welcome to my cybersecurity portfolio.
 <br>
-I am <b>Blessing Isaiah</b>, a Cybersecurity Analyst focused on penetration testing, API security assessments, and vulnerability research.
-I specialize in identifying security flaws across web applications, APIs, and systems through structured security testing and analysis.
+I am <b>Blessing Isaiah</b>, an Application Security Analyst focused on penetration testing, API security assessments, and DevSecOps engineering.
+I specialize in identifying security flaws across web applications, APIs, and systems through structured security testing, automation, and vulnerability research aligned with OWASP standards.
 </p>
 
 ---
@@ -15,75 +15,99 @@ I specialize in identifying security flaws across web applications, APIs, and sy
 - Vulnerability Assessment & Reporting
 - System Security Analysis (Linux & Windows)
 - Privilege Escalation Research
-- Security Auditing and Risk Identification
+- DevSecOps Pipeline Security (SAST, SCA, DAST)
+- CI/CD Security Integration & Automation
+
+---
 
 ## 🧭 Security Methodology
 
-I follow a structured and repeatable testing process to ensure accurate vulnerability discovery, validation, and reporting.
+I follow a structured and repeatable security engineering process to ensure accurate vulnerability discovery, validation, and remediation guidance.
 
 ### 1. Information Gathering
 - Identify target scope and attack surface
 - Perform passive and active reconnaissance
-- Collect endpoints, subdomains, and exposed services
-- Map application architecture and API structure
+- Map APIs, endpoints, subdomains, and exposed services
+- Analyze application architecture and trust boundaries
 
 ### 2. Enumeration
-- Analyze discovered services and technologies
 - Inspect API endpoints, parameters, and authentication flows
-- Identify hidden routes and undocumented features
-- Review HTTP responses and metadata for leakage
+- Identify hidden routes and undocumented functionality
+- Analyze HTTP responses for data leakage and misconfiguration
+- Profile technologies and exposed services
 
 ### 3. Vulnerability Identification
-- Test for OWASP Top 10 vulnerabilities
+- Test OWASP Top 10 vulnerabilities
 - Evaluate authentication and authorization controls
-- Analyze JWT implementation and session handling
-- Detect input validation and injection flaws
+- Analyze JWT implementation and session management
+- Detect injection, logic, and access control flaws
 
 ### 4. Exploitation Validation
-- Safely confirm identified vulnerabilities
-- Test real-world impact without causing disruption
-- Validate privilege escalation paths where applicable
+- Safely validate vulnerabilities in controlled environments
+- Confirm real-world impact without disruption
+- Test privilege escalation paths where applicable
 - Reproduce findings consistently
 
 ### 5. Post-Exploitation Analysis
 - Assess data exposure and privilege impact
-- Determine lateral movement possibilities
-- Evaluate system or API compromise depth
+- Evaluate lateral movement possibilities
+- Determine system or API compromise depth
 
 ### 6. Reporting & Documentation
-- Document findings with clear technical explanations
-- Include steps to reproduce and proof of concept evidence
-- Assign severity based on business and technical impact
-- Provide remediation recommendations
+- Document findings with technical accuracy and clarity
+- Provide proof-of-concept evidence and reproduction steps
+- Assign severity based on technical and business impact
+- Deliver remediation guidance aligned with secure coding practices
 
 ---
 
 ## 🎯 Objective
-To ensure every assessment is structured, repeatable, and focused on identifying real-world security risks with clear and actionable reporting.
+To build secure, resilient systems by integrating offensive security testing with DevSecOps practices, ensuring vulnerabilities are identified early and remediated efficiently within the development lifecycle.
 
+---
 
 ## 📂 Featured Projects
 
-- 🔐 [System Penetration & API Security Projects](https://github.com/B-isaiah/System-Penetration-projects-)
-  - API security testing (JWT, authentication flaws)
-  - Vulnerability assessments across web applications
-  - System penetration testing and reporting
-  - Privilege escalation research (Linux & Windows)
+- 🔐 [Application Security & Penetration Testing Lab](https://github.com/B-isaiah/System-Penetration-projects-)
+  - API security testing (JWT, authentication flaws, authorization bypass)
+  - Web application vulnerability assessments
+  - System penetration testing and exploitation validation
+  - Privilege escalation research (Linux & Windows environments)
+  - Security reporting and remediation documentation
 
 ---
 
 ## 🎯 What I Focus On
 - Identifying exploitable vulnerabilities in APIs and web applications  
-- Writing structured and professional security reports  
+- Designing and securing CI/CD pipelines with integrated security controls  
+- Writing structured, enterprise-grade security reports  
 - Understanding attacker behavior and exploitation techniques  
-- Improving application security posture through testing
-- Code review
-- ApI security testing
+- Improving application security posture through continuous testing  
 
 ---
-## Certifications
-(https://drive.google.com/file/d/1fvQ8exSxGZERSDaOYqa0usL4DZEsBrwx/view?usp=sharing)
+
+## 🧪 DevSecOps Engineering Focus
+- CI/CD security integration (GitHub Actions)
+- Automated vulnerability scanning (SAST, DAST, SCA)
+- Security gating to prevent high-risk deployments
+- Container security (Docker-based environments)
+- Centralized vulnerability tracking and reporting
+
 ---
+
+## 📊 Impact Summary
+- 200+ vulnerabilities identified across applications  
+- 80% reduction in regression defects through structured QA processes  
+- Implemented automated security scanning pipelines in CI/CD workflows  
+- Improved deployment security through enforcement of security gates  
+
+---
+
+## 📜 Certifications
+(https://drive.google.com/file/d/1fvQ8exSxGZERSDaOYqa0usL4DZEsBrwx/view?usp=sharing)
+
+---
+
 ## 🛠 Tools & Technologies
 
 ### Reconnaissance & OSINT
@@ -97,25 +121,18 @@ To ensure every assessment is structured, repeatable, and focused on identifying
 <div>
     <img src="https://img.shields.io/badge/-Nessus-00BFFF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-008000?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-B22222?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
 </div>
 
-### Exploitation & Testing
+### DevSecOps & Exploitation
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLmap-FFA500?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-696969?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Web Application Security
-<div>
     <img src="https://img.shields.io/badge/-OWASP_ZAP-FF4500?&style=for-the-badge&logo=OWASP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wfuzz-808080?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Dirbuster-2F4F4F?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Network Analysis
+### Network & System Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
